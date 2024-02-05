@@ -18,7 +18,7 @@ I help startups utilize big data to build AI-powered projects and develop websit
 
 
 
-### Badges
+
 
 <b>My GitHub Stats</b>
 
