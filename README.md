@@ -5,7 +5,7 @@ I help startups utilize big data to build AI-powered projects and develop websit
 
 * 🖥️  See my portfolio at [My portfolio](http://varunpendkar.vercel.app)
 * ✉️  You can contact me at [saivarunpendker999@gimal.com,](mailto:saivarunpendker999@gimal.com,)
-* 🧠  I'm learning deeper into the fascinating world of artificial intelligence (AI) .
+* 🧠  I'm learning deeper into the fascinating world of artificial intelligence (AI).
 * 🤝  I'm open to collaborating on Full Stack projects.
 
 ### Skills
