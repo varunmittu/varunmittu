@@ -1,7 +1,7 @@
 SOFTWARE DEVELOPER 
--------------------
--------------------
--------------------
+------------------->>
+------------------->>
+------------------->>
 I help startups utilize big data to build AI-powered projects and develop websites.mentor professionals to improve their skills in the technical field by 1% every day.
 
 * 🖥️  See my portfolio at [My portfolio](http://varunpendkar.vercel.app)
@@ -9,7 +9,7 @@ I help startups utilize big data to build AI-powered projects and develop websit
 * 🧠  I'm learning deeper into the fascinating world of artificial intelligence (AI).
 * 🤝  I'm open to collaborating on Full Stack projects.
 
-### Skills
+### Skills====>
 
 
 <p align="left">
