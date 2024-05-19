@@ -1,7 +1,7 @@
 SOFTWARE DEVELOPER 
+------------------->>
 ------------------->
-------------------->
-------------------->
+------------------->>
 
 
 I help startups utilize big data to build AI-powered projects and develop websites.mentor professionals to improve their skills in the technical field by 1% every day.
