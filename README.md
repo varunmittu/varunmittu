@@ -7,7 +7,7 @@ SOFTWARE DEVELOPER
 I help startups utilize big data to build AI-powered projects and develop websites.mentor professionals to improve their skills in the technical field by 1% every day.
 
 * 🖥️  See my portfolio at [My portfolio](http://varunpendkar.vercel.app)
-* ✉️  You can contact me at [pendkarsaivarun@gimal.com,pendkarsaivarun@outlook.com](mailto:saivarunpendker999@gimal.com,pendkarsaivarun@outlook.com)
+* ✉️  You can contact me at 
 * 🧠  I'm learning deeper into the fascinating world of artificial intelligence (AI).
 * 🤝  I'm open to collaborating on Full Stack projects.
 
